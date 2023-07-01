@@ -1,5 +1,5 @@
 import time
-# chapter02-2-ex01
+# chapter02-1-ex01
 # 파이썬 완전 기
 # Print 사용법(2023년)
 
