@@ -1,6 +1,7 @@
 python1.0_source/
 PDF/
 source_code/
+*.txt
 .idea/
 .vscode/
 *.sw*
